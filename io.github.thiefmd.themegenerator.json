@@ -43,8 +43,8 @@
             {
             "type": "git",
             "url": "https://github.com/ThiefMD/theme-generator.git",
-            "tag": "v0.1.3",
-            "commit": "11330101c8352be11b5a64e5455c00196c55fd8c"
+            "tag": "v0.1.4",
+            "commit": "91d3486652f0fe3272cf6c80e8e307f808682299"
             }],
             "post-install":[
                 "mkdir -p ${FLATPAK_DEST}/share/icons/hicolor/scalable/apps",
