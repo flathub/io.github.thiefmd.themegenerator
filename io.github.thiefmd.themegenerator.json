@@ -28,15 +28,6 @@
     ],
     "modules":[
         {
-            "name": "gtksourceview",
-            "buildsystem": "meson",
-            "sources": [{
-                "type": "archive",
-                "url": "https://download.gnome.org/sources/gtksourceview/5.4/gtksourceview-5.4.2.tar.xz",
-                "sha256": "ad140e07eb841910de483c092bd4885abd29baadd6e95fa22d93ed2df0b79de7"
-            }]
-        },
-        {
         "name":"themegenerator",
         "buildsystem":"meson",
         "sources":[
